@@ -2,6 +2,9 @@
 
 Official binary downloads for the LiveTag local printing assistant. POS source code is not published here.
 
+> **Downloads paused — Windows Smart App Control blocks v0.1.0.**
+> This unsigned preview is not a merchant-installable release on protected Windows computers. Keep Windows security enabled. A trusted company-signed successor is being prepared; no signed replacement is available yet. Existing v0.1.0 assets are retained for traceability, not as an installation workaround.
+
 ## Windows Preview v0.1.0
 
 Requires Windows 10/11 x64 and the printer manufacturer's Windows driver. Supports the existing 80mm / 576-dot receipt pipeline. Runtime is included; no separate Node installation is required.
